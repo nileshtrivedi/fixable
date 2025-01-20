@@ -1,6 +1,6 @@
 # Open Hardware for India
 
-### [Join our WhatsApp Community](https://chat.whatsapp.com/HVEhZzP3Y0RDZbUMsh37Ro)
+### [Join our WhatsApp Community](https://chat.whatsapp.com/HVEhZzP3Y0RDZbUMsh37Ro) / [Contribute on GitHub](https://github.com/nileshtrivedi/openhardwareindia/)
 
 Are you sick and tired of consumer hardware products that has a short life, is needlessly bundled with "smart" (but actually insecure and non-open software), is impossible to repair, is poorly designed and is made of parts that cannot be reused? Have you too been radicalized by the ["Buy Now" documentary on Netflix](https://www.netflix.com/watch/81554996)?&#x20;
 
