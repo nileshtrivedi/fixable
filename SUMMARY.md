@@ -3,6 +3,7 @@
 * [Open Hardware for India](README.md)
 * [Buying Internationally](buying-internationally.md)
 * [Suggest Improvements](suggest-improvements.md)
+* [Repair Map for your City](repair-map-for-your-city.md)
 * [TODO List](todo-list.md)
 
 ## Electronics
