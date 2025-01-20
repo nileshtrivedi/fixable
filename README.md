@@ -25,6 +25,7 @@ This is a wiki for _buyers_ in India, not _DIYers_. DIY (Doing-It-Yourself) is o
   * [Computers](electronics/computers.md)
   * [Projectors](electronics/projectors.md)
   * [Keyboards & Macropads](electronics/keyboards-and-macropads.md)
+  * [Mouse & Trackpads](electronics/mouse-and-trackpads.md)
   * [Monitors / TVs](electronics/monitors-tvs.md)
   * [Tablets & E-readers](electronics/tablets-and-e-readers.md)
   * [WiFi Routers](electronics/wifi-routers.md)

@@ -15,6 +15,7 @@
 * [Computers](electronics/computers.md)
 * [Projectors](electronics/projectors.md)
 * [Keyboards & Macropads](electronics/keyboards-and-macropads.md)
+* [Mouse & Trackpads](electronics/mouse-and-trackpads.md)
 * [Monitors / TVs](electronics/monitors-tvs.md)
 * [Streaming Stick / Box](electronics/streaming-stick-box.md)
 * [Tablets & E-readers](electronics/tablets-and-e-readers.md)
@@ -23,7 +24,6 @@
 * [VR & AR](electronics/vr-and-ar.md)
 * [Smart Speakers](electronics/smart-speakers.md)
 * [Development Boards/Kits](electronics/development-boards-kits.md)
-* [Misc](electronics/misc.md)
 
 ## Mechanical
 
