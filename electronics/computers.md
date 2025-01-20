@@ -10,3 +10,7 @@ The [Mecha Comet](https://mecha.so/comet) is a handheld Linux computer in a smar
 
 [Framework](https://frame.work/) laptops are amazing but they do not yet ship to India.
 
+Lenovo Thinkpad used to be a good choice but now we must double check before buying it.
+
+{% embed url="https://x.com/psankar/status/1881336577856798976" %}
+
