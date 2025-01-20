@@ -14,5 +14,3 @@ You might find [this YouTube channel](https://www.youtube.com/@MoritzKlein0) hel
 
 
 
-{% embed url="https://forms.gle/GyjBCTewubecWHxQ9" %}
-

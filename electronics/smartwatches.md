@@ -10,5 +10,3 @@ If you're up for building one:
 * [Open-Watch](https://www.pcbway.com/project/shareproject/Open_Watch_An_open_source_handmade_smartwatch_10560bbb.html) by an Iranian Developer
 * [Open-SmartWatch](https://open-smartwatch.github.io/)
 
-{% embed url="https://forms.gle/GyjBCTewubecWHxQ9" %}
-

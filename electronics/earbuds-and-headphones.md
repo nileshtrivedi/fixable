@@ -6,5 +6,3 @@ You can [join our whatsapp group for repairable Earbuds & Headphones](https://ch
 * [Fairbuds / Fairbuds XL](https://shop.fairphone.com/fairbuds)
 * [Variable OpenMod](https://variablestaticaudio.com/pages/variable-openmod)
 
-{% embed url="https://forms.gle/GyjBCTewubecWHxQ9" %}
-

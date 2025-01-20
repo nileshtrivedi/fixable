@@ -5,5 +5,3 @@
 
 Meanwhile, do avoid BambuLabs as they are [turning to the dark side by removing third-party access](https://www.reddit.com/r/BambuLab/comments/1i3gq1t/why_you_should_care_about_bambu_labs_removing/).
 
-{% embed url="https://forms.gle/GyjBCTewubecWHxQ9" %}
-

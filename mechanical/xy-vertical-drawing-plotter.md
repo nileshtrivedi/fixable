@@ -5,5 +5,3 @@ Because e-ink screens are still expensive (due to patents), if you want a large 
 * #### [CNC Wall Drawing Plotter](https://shopmakerq.com/product/cnc-wall-drawing-plotter/) by MakerQ (Kochi)
 * #### [Fumik](https://www.fumik.com/): Open-source, wall drawing robot ([video](https://www.youtube.com/watch?v=QAVDT_W5Alc))
 
-{% embed url="https://forms.gle/GyjBCTewubecWHxQ9" %}
-

@@ -11,5 +11,3 @@ Here are some resources for a DIY projector.
 * [DIY Perks: Building a TRUE 4k home cinema projector](https://www.youtube.com/watch?v=YfvTjQ9MCwY)
 * [DIY Perks: DIY Smartphone projector](https://www.youtube.com/watch?v=FKL9_bdtHq0)
 
-{% embed url="https://forms.gle/GyjBCTewubecWHxQ9" %}
-

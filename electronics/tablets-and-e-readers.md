@@ -7,5 +7,3 @@
 * [Kobo e-readers](https://gl.kobobooks.com/collections/all) are much nicer than Kindle, but still not fully open.
 * Google Pixel Tablet runs both LineageOS and GrapheneOS but is not offered in India directly, though it is available on Amazon.
 
-{% embed url="https://forms.gle/GyjBCTewubecWHxQ9" %}
-

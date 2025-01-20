@@ -13,5 +13,3 @@ Check out [Libretech.shop](https://libretech.shop/) by [Mostly Harmless](https:/
 * [Fairphone](https://shop.fairphone.com/fairphone-5)
 * [Mecha Comet](https://mecha.so/comet) (coming to Kickstarter in Q1 2025) - a handheld Linux computer in a smartphone-style form factor with several extensible attachments via GPIO
 
-{% embed url="https://forms.gle/GyjBCTewubecWHxQ9" %}
-

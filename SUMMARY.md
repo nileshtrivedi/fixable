@@ -2,6 +2,7 @@
 
 * [Open Hardware for India](README.md)
 * [Buying Internationally](buying-internationally.md)
+* [Suggest Improvements](suggest-improvements.md)
 * [TODO List](todo-list.md)
 
 ## Electronics

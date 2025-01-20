@@ -6,5 +6,3 @@ OpenWRT recent launched [One](https://openwrt.org/toh/openwrt/one) in collaborat
 
 [Turris Omnia](https://www.turris.com/en/products/omnia/) has been there for a while.
 
-{% embed url="https://forms.gle/GyjBCTewubecWHxQ9" %}
-

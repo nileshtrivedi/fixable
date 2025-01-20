@@ -17,9 +17,3 @@ There are many, many choices (because mechanical or not, RGB or not, split/ergon
 
 * [CoryDora](https://shop.absurd.industries/products/cory-dora) by [Balu Babu](https://x.com/AskBaluBabu), [Shreshth](https://x.com/shreshthmohan) and [Absurd Industries](https://absurd.industries/)
 
-
-
-
-
-{% embed url="https://forms.gle/GyjBCTewubecWHxQ9" %}
-

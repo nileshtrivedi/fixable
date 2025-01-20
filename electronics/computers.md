@@ -10,5 +10,3 @@ The [Mecha Comet](https://mecha.so/comet) is a handheld Linux computer in a smar
 
 [Framework](https://frame.work/) laptops are amazing but they do not yet ship to India.
 
-{% embed url="https://forms.gle/GyjBCTewubecWHxQ9" %}
-
