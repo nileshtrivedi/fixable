@@ -4,6 +4,7 @@
 * [Buying Internationally](buying-internationally.md)
 * [Suggest Improvements](suggest-improvements.md)
 * [Repair Map for your City](repair-map-for-your-city.md)
+* [Scoring Formula](scoring-formula.md)
 * [TODO List](todo-list.md)
 
 ## Electronics
