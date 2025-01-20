@@ -54,5 +54,4 @@ This is a wiki for _buyers_ in India, not _DIYers_. DIY (Doing-It-Yourself) is o
 * Musical Gear
   * [MIDI Controllers & Effect Pedals](musical-gear/midi-controllers-and-effect-pedals.md)
 
-{% include ".gitbook/includes/googleform.md" %}
-
+We also have information on [how to buy from international sites](buying-internationally.md) and [repair maps for various Indian cities](repair-map-for-your-city.md).
