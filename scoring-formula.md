@@ -2,6 +2,7 @@
 
 To provide a repair-friendliness score for various products, we should evaluate them on the following:
 
+* What is the product's [iFixit repairability rating](https://www.ifixit.com/repairability)?
 * Does the product have better-than-average warranty period for its segment?
 * Has the manufacturer registered on Indian Government's [Right To Repair portal](https://righttorepairindia.gov.in/)?
 * Are the repair manuals available to public without any cost?
