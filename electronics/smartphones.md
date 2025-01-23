@@ -14,6 +14,7 @@ These devices seem good (though some are not available for sale in India so you'
 
 * [HMD Fusion](https://www.hmd.com/en_in/hmd-fusion?sku=101SQ503H034-gaming-flashyindigoblue). They [seem to be](https://www.hmd.com/en_in/self-repair) supportive of self-repair, even for other models like Crest 5G. But they do not allow bootloader unlocking.
 * [PinePhone and PinePhone Pro](https://pine64.org/devices/pinephone/)
+* [Librem 5](https://puri.sm/products/librem-5/)
 * [Fairphone](https://shop.fairphone.com/fairphone-5)
 * [Mecha Comet](https://mecha.so/comet) (coming to Kickstarter in Q1 2025) - a handheld Linux computer in a smartphone-style form factor with several extensible attachments via GPIO
 
