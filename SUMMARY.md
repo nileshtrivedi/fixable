@@ -6,10 +6,12 @@
 * [Repair Map for your City](repair-map-for-your-city.md)
 * [Find Parts & Components](find-parts-and-components.md)
 * [Scoring Formula](scoring-formula.md)
+* [Recommended Repair Tools](recommended-repair-tools.md)
 * [TODO List](todo-list.md)
 
 ## Electronics
 
+* [USB Charger-Adapters](electronics/usb-charger-adapters.md)
 * [Earbuds & Headphones](electronics/earbuds-and-headphones.md)
 * [Smartwatches](electronics/smartwatches.md)
 * [Smartphones](electronics/smartphones.md)
