@@ -16,7 +16,13 @@ We have the following criteria for listing products on this site:
 * Preferably made in India for better product availability (i.e. no custom duty hassles) and service /support
 * Open-source schematics, code and CAD designs (like how [Framework](https://frame.work/) does it)
 
-This is a wiki for _buyers_ in India, not _DIYers_. DIY (Doing-It-Yourself) is our least preferred option, though still better than being forced to buy bad products currently prevalent in the market. Over time, we hope to build a strong community and [influence OEMs and policies](https://righttorepairindia.gov.in/) by voting with our ₹,  speech and votes. We would like to see _Framework_ like companies in each of these product categories.
+There are other initiatives like:
+
+* [Consumer Action Task Force](https://wiki.rossmanngroup.com/) wiki by [YouTuber Louis Rossmann](https://www.youtube.com/@rossmanngroup)
+* [iFixit](https://www.ifixit.com/) which is famous for their teardowns and repairability ratings
+* OSHWA.org who tries to certify open-source hardware products (they have about [60 open-source hardware projects listed from India](https://certification.oshwa.org/list.html)).&#x20;
+
+We intend our wiki to be even more helpful to Indian consumers. Over time, we hope to build a strong community and [influence OEMs and policies](https://righttorepairindia.gov.in/) by voting with our ₹,  speech and votes. We would like to see _Framework_ like companies in each of these product categories.
 
 * Electronics
   * [Earbuds & Headphones](electronics/earbuds-and-headphones.md)
