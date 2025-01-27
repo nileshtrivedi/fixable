@@ -21,6 +21,7 @@ There are other initiatives like:
 * [Repair Wiki](https://repair.wiki/) and [Consumer Action Task Force](https://wiki.rossmanngroup.com/) wiki by [YouTuber Louis Rossmann](https://www.youtube.com/@rossmanngroup)
 * [iFixit](https://www.ifixit.com/) which is famous for their teardowns and repairability ratings
 * OSHWA.org who tries to certify open-source hardware products (they have about [60 open-source hardware projects listed from India](https://certification.oshwa.org/list.html)).&#x20;
+* [https://caps.wiki](https://caps.wiki/wiki/Main_Page)/
 
 We intend our wiki to be even more helpful to Indian consumers. Over time, we hope to build a strong community and [influence OEMs and policies](https://righttorepairindia.gov.in/) by voting with our ₹,  speech and votes. We would like to see _Framework_ like companies in each of these product categories.
 
