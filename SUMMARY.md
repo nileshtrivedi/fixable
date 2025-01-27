@@ -6,7 +6,7 @@
 * [Repair Map for your City](repair-map-for-your-city.md)
 * [Find Parts & Components](find-parts-and-components.md)
 * [Scoring Formula](scoring-formula.md)
-* [Recommended Repair Tools](recommended-repair-tools.md)
+* [Repair Tools & Resources](repair-tools-and-resources.md)
 * [TODO List](todo-list.md)
 
 ## Electronics

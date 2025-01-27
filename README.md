@@ -18,7 +18,7 @@ We have the following criteria for listing products on this site:
 
 There are other initiatives like:
 
-* [Consumer Action Task Force](https://wiki.rossmanngroup.com/) wiki by [YouTuber Louis Rossmann](https://www.youtube.com/@rossmanngroup)
+* [Repair Wiki](https://repair.wiki/) and [Consumer Action Task Force](https://wiki.rossmanngroup.com/) wiki by [YouTuber Louis Rossmann](https://www.youtube.com/@rossmanngroup)
 * [iFixit](https://www.ifixit.com/) which is famous for their teardowns and repairability ratings
 * OSHWA.org who tries to certify open-source hardware products (they have about [60 open-source hardware projects listed from India](https://certification.oshwa.org/list.html)).&#x20;
 
