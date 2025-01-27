@@ -14,7 +14,7 @@ Lenovo Thinkpad used to be a good choice but now we must double check before buy
 
 {% embed url="https://x.com/psankar/status/1881336577856798976" %}
 
-The [anyon\_e](https://www.byran.ee/posts/creation/) is a fully Open Source laptop created by Byran Huang, with the mission to allow anyone to build their own laptop, completely from scratch.
+The [anyon\_e](https://www.byran.ee/posts/creation/) is a fully Open Source laptop created by Byran Huang (a high-school student!!), with the mission to allow anyone to build their own laptop, completely from scratch.
 
 {% embed url="https://www.youtube.com/watch?v=fks3PBodyiE" %}
 
