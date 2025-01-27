@@ -1,7 +1,5 @@
 # 3D Printers
 
-You can [join our whatsapp group for repairable 3D printers](https://chat.whatsapp.com/FWTCCNHMqbOHTAhRjHRoRO).
-
 * [SmartPrintCoreH7x](https://boltzrnd.com/) by BoltzR\&D ([article on 3dprint.com](https://3dprint.com/309170/indian-startup-unveils-new-open-source-3d-printer-mainboard-on-github/))
 * [Make3d.in](https://make3d.in/) has some desktop 3D printers but need to check if they are repair-friendly.
 

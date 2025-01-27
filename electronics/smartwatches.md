@@ -1,7 +1,5 @@
 # Smartwatches
 
-You can [join our whatsapp group for repairable smartwatches](https://chat.whatsapp.com/Gagqq19ziQGEKJQ2pojqWH).
-
 You can check [iFixit's repairability ratings for various smartwatches](https://www.ifixit.com/repairability/smartwatch-repairability-scores).
 
 ## Open Hardware Products

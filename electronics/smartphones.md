@@ -1,7 +1,5 @@
 # Smartphones
 
-You can [join our whatsapp group for repairable smartphones](https://chat.whatsapp.com/K3lSLRJnCa3E3FyfNAwun3).
-
 Check out [Bootloader Unlock : Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
 
 You should check if the phone you are about to buy supports one of the following operating systems:

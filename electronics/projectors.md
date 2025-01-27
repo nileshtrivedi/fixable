@@ -1,7 +1,5 @@
 # Projectors
 
-You can [join our whatsapp group for repairable projectors](https://chat.whatsapp.com/EIRzNqQkkAg2rtLFFdkPPM).
-
 Projectors are simple gadgets in principle: Take a display source (like HDMI) and render it on a transparent LCD, take a light source (like a powerful LED) and shine light through the LCD, and use lenses/mirror to focus and project. [Keystone correction](https://www.cnet.com/tech/home-entertainment/what-is-keystone-correction-for-projectors-and-why-you-should-avoid-it/) is an extra nice-to-have. HDMI carries audio as well, so projectors often come with built-in speakers which are usually not of great quality. Some projectors can be operated using an infrared remote.
 
 But projector manufacturers needlessly complicate this by bundling in "smart" features like WiFi, BlueTooth, built-in Android (which is outdated and cannot be upgraded) to deliberately reduce the product's life. And it is almost impossible to replace parts for longevity of the product.

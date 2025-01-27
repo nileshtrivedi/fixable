@@ -1,7 +1,5 @@
 # Earbuds & Headphones
 
-You can [join our whatsapp group for repairable Earbuds & Headphones](https://chat.whatsapp.com/LM3DFA9Qd3CIPEYF6v6CeV).
-
 Check out [iFixit's repairability ratings](https://www.ifixit.com/repairability/wireless-earbud-repairability-scores) for various wireless earbuds:
 
 ## Open Hardware Products
