@@ -1,12 +1,13 @@
 # Table of contents
 
 * [Open Hardware for India](README.md)
-* [Buying Internationally](buying-internationally.md)
-* [Suggest Improvements](suggest-improvements.md)
 * [Local Groups](repair-map-for-your-city.md)
 * [Find Parts & Components](find-parts-and-components.md)
 * [Scoring Formula](scoring-formula.md)
 * [Repair Tools & Resources](repair-tools-and-resources.md)
+* [Buying Internationally](buying-internationally.md)
+* [Suggest Improvements](suggest-improvements.md)
+* [Express Buying Interest](express-buying-interest.md)
 * [TODO List](todo-list.md)
 
 ## Electronics
