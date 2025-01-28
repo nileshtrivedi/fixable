@@ -10,7 +10,7 @@ You can check [iFixit's repairability ratings for various smartwatches](https://
 
 If you're up for building one:
 
-* [Repebble](https://repebble.com/)
+* [Repebble](https://repebble.com/) (not to be confused with the related but separate [Rebble](https://rebble.io/) project)
 * [Open-Watch](https://www.pcbway.com/project/shareproject/Open_Watch_An_open_source_handmade_smartwatch_10560bbb.html) by an Iranian Developer
 * [Open-SmartWatch](https://open-smartwatch.github.io/)
 
