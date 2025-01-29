@@ -5,6 +5,7 @@ You can check [iFixit's repairability ratings for various smartwatches](https://
 ## Open Hardware Products
 
 * [HealthyPi](https://www.crowdsupply.com/protocentral/healthypi-move): open-source smartwatch with health sensors by [ProtoCentral](https://protocentral.com/) from india, successfully crowdfunded and now in pre-order
+* [Bangle.js](https://banglejs.com/)
 * T1: E-ink watch by [Ampere Works](https://www.ampere.works/), [presented at IndiaFOSS 2024](https://www.youtube.com/watch?v=jpTXz0AlL78)
 * [Watchy](https://watchy.sqfmi.com/): Open-source E-paper watch by SQFMI
 * [PineTime](https://pine64.org/devices/pinetime/)
