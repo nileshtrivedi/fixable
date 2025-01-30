@@ -1,7 +1,6 @@
 # Tablets & E-readers
 
-* [PineNote](https://pine64.org/devices/pinenote/) (e-ink with stylus)
-* [PineTab](https://pine64.com/product-category/pinetab/)
+* [PineNote](https://pine64.org/devices/pinenote/) (e-ink with stylus) and [PineTab](https://pine64.com/product-category/pinetab/). Seems to be [available at fabtolab](https://www.fabtolab.com/index.php?route=product/search\&search=pinetab) but watch out for GST)
 * [RasPad 3](https://raspad.com/products/raspadv3) ([can do desktop mode as well](https://www.youtube.com/watch?v=RP-tta_B9E4))
 * [CutiePie](https://cutiepi.io/) - based on Raspberry Pi 4. [Jeff Geerling's 2021 video](https://www.youtube.com/watch?v=t-ZQ9LRdXSk) about it. TBH this seems outdated, now that Pi5 is out.
 * [Kobo e-readers](https://gl.kobobooks.com/collections/all) are much nicer than Kindle, but still not fully open.
