@@ -9,7 +9,7 @@ You will find a lot of useful material on the [Repair Wiki](https://repair.wiki/
 ## Electronics
 
 * Multimeter
-  * There is [Hydra-meter](https://www.youtube.com/watch?v=JMexSal01gQ) a work-in-progress open-source, modular design for a multimeter but this will need to be modified for our higher household AC voltage.
+  * There is [Hydra-meter](https://www.youtube.com/watch?v=JMexSal01gQ) a work-in-progress open-source, modular design for a multimeter but this will need to be modified for India's higher household AC voltage.
 * Soldering station
 
 ## Mechanical
