@@ -8,6 +8,8 @@ The [Mecha Comet](https://mecha.so/comet) is a handheld Linux computer in a smar
 
 ## Laptops
 
+MNT Reform Next is the second version of open-source laptop, [available for import from CrowdSupply](https://www.crowdsupply.com/mnt/mnt-reform-next).&#x20;
+
 [Framework](https://frame.work/) laptops are amazing but they do not yet ship to India.
 
 Lenovo Thinkpad used to be a good choice but now we must double check before buying it.
