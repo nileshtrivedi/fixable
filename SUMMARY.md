@@ -26,6 +26,7 @@
 * [WiFi Routers](electronics/wifi-routers.md)
 * [Cameras](electronics/cameras.md)
 * [VR & AR](electronics/vr-and-ar.md)
+* [Printers & Scanners](electronics/printers-and-scanners.md)
 * [Smart Speakers](electronics/smart-speakers.md)
 * [Development Boards/Kits](electronics/development-boards-kits.md)
 
