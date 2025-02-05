@@ -27,7 +27,7 @@ We intend our wiki to be even more helpful to Indian consumers. Over time, we ho
 
 * Electronics
   * [Earbuds & Headphones](electronics/earbuds-and-headphones.md)
-  * [Smartwatches](electronics/smartwatches.md)
+  * [Smartwatches & Smartglasses](electronics/smartwatches.md)
   * [Smartphones](electronics/smartphones.md)
   * [Computers](electronics/computers.md)
   * [Projectors](electronics/projectors.md)
