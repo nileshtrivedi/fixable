@@ -12,5 +12,6 @@ To provide a repair-friendliness score for various products, we should evaluate 
 * Does the manufacturer provide repair services in India?
 * Is the product made or assembled in India?
 * Are the product schematics, firmware source code and CAD designs available as open-source?
+* Is the product [certified by OSHWA](https://certification.oshwa.org/)?
 * Is the manufacturer website properly archived on Waybackmachine / Archive.org to provide traceable history for various documentation and policies?
 
