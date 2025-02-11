@@ -1,4 +1,4 @@
-# Scoring Formula
+# Fixability Score
 
 To provide a repair-friendliness score for various products, we plan to evaluate them on the following:
 
@@ -14,4 +14,5 @@ To provide a repair-friendliness score for various products, we plan to evaluate
 * Are the product schematics, firmware source code and CAD designs available as open-source?
 * Is the product [certified by OSHWA](https://certification.oshwa.org/)?
 * Is the manufacturer website properly archived on Waybackmachine / Archive.org to provide traceable history for various documentation and policies?
+* Can the device use standard USB-PD for power/charging?
 
