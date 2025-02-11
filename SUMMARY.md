@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Open Hardware for India](README.md)
+* [Fixable products for India](README.md)
 * [Local Groups](repair-map-for-your-city.md)
 * [Find Parts & Components](find-parts-and-components.md)
 * [Scoring Formula](scoring-formula.md)
