@@ -8,7 +8,7 @@
 * [Buying Internationally](buying-internationally.md)
 * [Suggest Improvements](suggest-improvements.md)
 * [Express Buying Interest](express-buying-interest.md)
-* [TODO List](todo-list.md)
+* [TODOs & Updates](todo-list.md)
 
 ## Electronics
 
