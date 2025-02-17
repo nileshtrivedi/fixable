@@ -7,6 +7,13 @@
 * [x] Finalize the [form to collect buying interest](express-buying-interest.md) for any product category
 * [x] Finalize a domain name
 
+#### 17th Feb 2025
+
+* Created contributors page
+* Created a whatsapp group for Pune
+
+
+
 #### 12th Feb 2025
 
 •⁠ ⁠The wiki now has a permanent web address: [https://www.isfixable.com/](https://www.isfixable.com/) \
