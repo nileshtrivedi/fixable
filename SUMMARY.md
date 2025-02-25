@@ -50,6 +50,7 @@
 
 ## Household
 
+* [Smart Switches](household/smart-switches.md)
 * [Vacuum Cleaners](household/vacuum-cleaners.md)
 * [Water Purifiers](household/water-purifiers.md)
 * [Air Purifiers](household/air-purifiers.md)
