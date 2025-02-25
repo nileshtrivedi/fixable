@@ -8,6 +8,8 @@ The key decision you need to make here is which operating system you want to run
   * [HMD Fusion](https://www.hmd.com/en_in/hmd-fusion?sku=101SQ503H034-gaming-flashyindigoblue). They [seem to be](https://www.hmd.com/en_in/self-repair) supportive of self-repair, even for other models like Crest 5G. But they do not allow bootloader unlocking.
   * Check out [Libretech.shop](https://libretech.shop/) by [Mostly Harmless](https://mostlyharmless.io/).&#x20;
   * Failing all, a pragmatic option might be to get Google Pixel phone which supports LineageOS and GrapheneOS well.
+  * Custom Android Verified Boot keys is a feature which allows you to run a custom OS with a locked bootloader. It's rare to see a device which supports custom AVB keys, but some devices can be found [here](https://github.com/chenxiaolong/avbroot/issues/299).
+  * Sony has an Open Devices program supporting AOSP for its xperia smartphones, but Sony [exited the smartphones category of India in 2019](https://timesofindia.indiatimes.com/gadgets-news/12-smartphone-brands-that-have-exited-india-market-in-the-last-decade/articleshow/107976381.cms) and are unlikely to return.
 * **Linux** : Though Android too is based on Linux, some people prefer to avoid Android ecosystem altogether. The OS comes in many variants like Debian, Ubuntu Touch or [PostmarketOS](https://wiki.postmarketos.org/wiki/Devices). Check out the following devices:
   * [PinePhone and PinePhone Pro](https://pine64.org/devices/pinephone/)
   * [Librem 5](https://puri.sm/products/librem-5/)
