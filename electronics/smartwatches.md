@@ -1,6 +1,8 @@
-# Smartwatches
+# Smartwatches & Smartglasses
 
 You can check [iFixit's repairability ratings for various smartwatches](https://www.ifixit.com/repairability/smartwatch-repairability-scores).
+
+DO NOT BUY Apple's iWatch. Apple [calls it a "non-repairable" product](https://x.com/PRKSpeaks/status/1896771346782404796), even though [people are clearly able to repair it](https://www.reddit.com/r/delhi/comments/way95h/apple_watch_6_repair_from_nonapple_repair_shops/).
 
 ## Open Hardware Products
 
