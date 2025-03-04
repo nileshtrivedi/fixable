@@ -22,6 +22,7 @@
 * [Keyboards & Macropads](electronics/keyboards-and-macropads.md)
 * [Mouse & Trackpads](electronics/mouse-and-trackpads.md)
 * [Monitors / TVs](electronics/monitors-tvs.md)
+* [Printers](electronics/printers.md)
 * [Streaming Stick / Box](electronics/streaming-stick-box.md)
 * [Tablets & E-readers](electronics/tablets-and-e-readers.md)
 * [WiFi Routers](electronics/wifi-routers.md)
