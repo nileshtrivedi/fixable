@@ -12,5 +12,5 @@ While there are open designs like [Nukit Open Air Purifier](https://github.com/o
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-
+The Internet is full of [individuals](https://x.com/ankitdaf/status/1897924674111389896) building [DIY Air purifiers](https://www.youtube.com/watch?v=eYOvnqoW4H0) which are very effective, quiet, repairable and budget-friendly.
 
