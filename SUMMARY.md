@@ -2,6 +2,7 @@
 
 * [Fixable products for India](README.md)
 * [Local Groups](repair-map-for-your-city.md)
+* [Find Repair Experts](find-repair-experts.md)
 * [Find Parts & Components](find-parts-and-components.md)
 * [Fixability Score](scoring-formula.md)
 * [Repair Tools & Resources](repair-tools-and-resources.md)
