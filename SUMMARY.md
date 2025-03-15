@@ -16,6 +16,7 @@
 
 * [USB Charger-Adapters](electronics/usb-charger-adapters.md)
 * [Earbuds & Headphones](electronics/earbuds-and-headphones.md)
+* [Smart Speakers & Sound Systems](electronics/smart-speakers.md)
 * [Smartwatches & Smartglasses](electronics/smartwatches.md)
 * [Smartphones](electronics/smartphones.md)
 * [Computers](electronics/computers.md)
@@ -30,7 +31,6 @@
 * [Cameras](electronics/cameras.md)
 * [VR & AR](electronics/vr-and-ar.md)
 * [Printers & Scanners](electronics/printers-and-scanners.md)
-* [Smart Speakers](electronics/smart-speakers.md)
 * [Development Boards/Kits](electronics/development-boards-kits.md)
 
 ## Mechanical
