@@ -11,6 +11,7 @@ DO NOT BUY Apple Watch. Apple [calls it a "non-repairable" product](https://x.co
   * This has been [celebrated](https://rebble.io/2025/01/27/the-future-of-rebble.html) by the open-source Rebble community
   * Pebble founder Eric Migicovsky has now [launched](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches) two models with e-paper screen
   * [Apple continues to play dirty](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones)
+  * [CNX blog post](https://www.cnx-software.com/2025/03/19/the-pebble-smartwatch-is-back-with-the-core-2-duo-and-core-time-2-models-running-pebbleos-open-source-firmware/) about these new models
 * [HealthyPi](https://www.crowdsupply.com/protocentral/healthypi-move): open-source smartwatch with health sensors by [ProtoCentral](https://protocentral.com/) from india, successfully crowdfunded and now in pre-order
 * [Bangle.js](https://banglejs.com/)
 * T1: E-ink watch by [Ampere Works](https://www.ampere.works/), [presented at IndiaFOSS 2024](https://www.youtube.com/watch?v=jpTXz0AlL78)
