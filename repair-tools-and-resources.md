@@ -22,5 +22,13 @@ You will find a lot of useful material on the [Repair Wiki](https://repair.wiki/
 
 
 
+## Books
+
+* Repairing Water Damaged Books:
+  * &#x20;["How-to Treat Water Damaged Books" by CU Boulder Libraries](https://www.youtube.com/watch?v=QDuzIVFqvys)
+  * ["Wet Book Rescue" by Syracuse University Libraries Preservation Department](https://www.youtube.com/watch?v=S9_fwmdCyzo)
+
+
+
 
 
